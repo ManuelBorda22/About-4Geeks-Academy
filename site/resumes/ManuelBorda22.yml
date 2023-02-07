@@ -1,0 +1,48 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+
+    first_name: Manuel
+    last_name: Borda
+    
+    
+    motto: 
+    
+    
+    focus: 
+    
+    
+    summary: |
+      
+   
+    avatar:
+
+    
+    email: mannyborda2000@hotmail.com
+    # phone: 561 909 8183
+    
+    
+    github: ManuelBorda22
+    
+    
+
+    
+    languages:
+      - idiom: Spanish
+        level: Native
+      - idiom: English
+        level: not that good
+   
+# skills: 
+#     toolset:
+#       - name: Python & Django
+#         level: 10%
+
+#       - name: Javascript & jQuery
+#         level: 15%
+
+
+#       - name: HTML5 & CSS
+#         level: 35%
